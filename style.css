@@ -1,0 +1,15 @@
+body {
+font-family: sans-serif;
+}
+
+form {
+    border: 1px solid black;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+.user-item {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
